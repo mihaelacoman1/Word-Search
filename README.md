@@ -12,7 +12,7 @@ The program checks all **8 possible directions** (horizontal, vertical, diagonal
   - Right → Left
   - Top → Bottom
   - Bottom → Top
-  - Diagonal directions (↘, ↙, ↗, ↖)
+  - Diagonal directions 
 - Two source files included:
   - **Word Search.cpp** → main implementation
   - **instructions.cpp** → commented/explained version
