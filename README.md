@@ -30,13 +30,18 @@ The program checks all **8 possible directions** (horizontal, vertical, diagonal
 
 Open a terminal in Ubuntu and run the following commands:
 
-```bash
+
 # 1. Clone the repository
+```bash
 git clone https://github.com/mihaelacoman1/Word-Search.git
 cd Word-Search
 
-# 2. Compile the main program
+```
+# 2. Compile the main progam
+```bash
 g++ "Word Search.cpp" -o wordsearch
 
+```
 # 3. Run the program
+```bash
 ./wordsearch
