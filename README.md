@@ -37,11 +37,11 @@ git clone https://github.com/mihaelacoman1/Word-Search.git
 cd Word-Search
 
 ```
-# 2. Compile the main progam
+## 2. Compile the main progam
 ```bash
 g++ "Word Search.cpp" -o wordsearch
 
 ```
-# 3. Run the program
+## 3. Run the program
 ```bash
 ./wordsearch
