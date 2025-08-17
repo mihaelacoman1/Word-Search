@@ -16,14 +16,11 @@ The program checks all **8 possible directions** (horizontal, vertical, diagonal
 - Two source files included:
   - **Word Search.cpp** → main implementation
   - **instructions.cpp** → commented/explained version
-  - 
 ---
-
 ##  Technologies Used
 - **C++17+**
 - **Ubuntu (g++) compiler**
 - **VS Code** (or any IDE)
-
 ---
 
 ##  How to Compile & Run
